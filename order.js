@@ -160,7 +160,7 @@
       <div>
         <h1>Access Blocked</h1>
         <p>You have been blocked. Please contact support.</p>
-        <a href="mailto:support@yourdomain.com">support@yourdomain.com</a>
+        
       </div>
     `;
 
